@@ -3,4 +3,4 @@ This project is a basic calculator built using just HTML and CSS. It performs si
 
 
 ### This is how it looks 
-![Uploading Screenshot 2024-08-23 215851.png…]()
+![Screenshot 2024-08-23 215851](https://github.com/user-attachments/assets/2562b529-1549-42cc-83b5-b7aa789145e2)
